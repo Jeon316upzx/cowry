@@ -1,5 +1,7 @@
 # COWRYWISE TEST
 
+Endpoint : /cowrywise/api/v1/testing
+
 To get started :
 
 1. Clone the repository by running git clone <url>
